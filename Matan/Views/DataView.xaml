@@ -1,0 +1,31 @@
+﻿<Window x:Class="Matan.Views.DataView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Matan.Views"
+        mc:Ignorable="d"
+        Title="DataView" Height="142" Width="404">
+    <Grid>
+        <StackPanel Margin="0">
+            <Grid Height="30">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="49*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Входные данные:" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center"/>
+                <TextBox x:Name="Input" Grid.Column="1" Margin="0,6" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" Width="196"/>
+            </Grid>
+            <Button Content="Выполнить расчет" Click="Button_Click"/>
+            <Grid Height="50">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="49*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Выходные данные:" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center"/>
+                <TextBlock x:Name="Output" Grid.Column="1" Padding="2" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" Width="196" Height="50"/>
+            </Grid>
+        </StackPanel>
+
+    </Grid>
+</Window>

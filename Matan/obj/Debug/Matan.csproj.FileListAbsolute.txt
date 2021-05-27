@@ -1,0 +1,17 @@
+C:\Users\Maxim\source\repos\Matan\Matan\bin\Debug\Matan.exe.config
+C:\Users\Maxim\source\repos\Matan\Matan\bin\Debug\Matan.exe
+C:\Users\Maxim\source\repos\Matan\Matan\bin\Debug\Matan.pdb
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Views\DataView.g.cs
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\App.g.cs
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan_MarkupCompile.cache
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan_MarkupCompile.lref
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\MainWindow.baml
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Views\DataView.baml
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.g.resources
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.exe
+C:\Users\Maxim\source\repos\Matan\Matan\obj\Debug\Matan.pdb
